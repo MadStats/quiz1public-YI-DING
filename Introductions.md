@@ -40,7 +40,7 @@ Prof. Karl Rohe, fall 2016 ,stat 333
 
 10)  Have you ever heard of random forests?
 
-Some kind of decison tree? Bootstrapped?
+Some kind of decision tree? Bootstrapped?
 
 11)  Who else is in your group?  Only use github names and link to their page like this:  [MadStats](https://github.com/MadStats) and [karlrohe](https://github.com/karlrohe).
 
